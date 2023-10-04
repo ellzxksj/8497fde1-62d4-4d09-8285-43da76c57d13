@@ -1,0 +1,2 @@
+local MainLoader = true
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ellxzyie/Main/main/Script.lua'))() 
